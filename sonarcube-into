@@ -1,0 +1,17 @@
+Code quality check- bugs(error)
+                                  -  vulnerability- weak point in code where attacks can be possible
+                                  - duplications- same code again n again
+                                  - code smell (maybe we get issue at this point)
+                                 - technical debt - to cover all these issues and fixing  one may need time this is call technical debt
+Code coverage-   80% should be minimum required
+
+
+
+ SonarQube(2 functions)                                                                               
+
+1-Sonarqube Scanner-Code scan will be done by this tool (Analysis) & report  will be shared to sonarqube server
+2-Sonarqube server-Report will be handled(UI friendly)
+
+
+
+
